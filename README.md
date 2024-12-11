@@ -59,6 +59,8 @@ FluidSynth (for audio synthesis)
 
 Google’s Music Transformer (for refinement)
 
+hear is BI-LSTM Pretrain model : https://drive.google.com/file/d/1smfMmE_TxZ0bWu12QzxuHGApnbq2_iur/view?usp=drive_link
+
 Contributions: 
 We welcome contributions from the community. Please feel free to open issues or submit pull requests.
 
