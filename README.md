@@ -35,7 +35,9 @@ Use FluidSynth to convert MIDI files to high-quality .wav audio.
 Music Refinement:
 
 Refine synthesized audio with Google's Music Transformer.
+
 Add expressive elements and smooth transitions.
+
 Results
 Improved Musical Coherence: High-quality compositions that blend long-term and short-term musical dependencies.
 Metrics:
