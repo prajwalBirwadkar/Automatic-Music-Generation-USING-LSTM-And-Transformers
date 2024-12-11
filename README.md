@@ -63,7 +63,7 @@ Here is a corpus_notes file : https://drive.google.com/file/d/1fXL3DuiytKMm97wuY
 
 Here is BI-LSTM Pretrain model : https://drive.google.com/file/d/1smfMmE_TxZ0bWu12QzxuHGApnbq2_iur/view?usp=drive_link
 
-Here is a Research paper link : https://drive.google.com/file/d/1NY09gzBK9nF63gdkDGvgvMaJR-cD0zGT/view?usp=drive_link
+
 
 Contributions: 
 We welcome contributions from the community. Please feel free to open issues or submit pull requests.
