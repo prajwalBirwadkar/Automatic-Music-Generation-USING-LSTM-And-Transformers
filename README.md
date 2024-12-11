@@ -41,16 +41,24 @@ Add expressive elements and smooth transitions.
 Results
 Improved Musical Coherence: High-quality compositions that blend long-term and short-term musical dependencies.
 Metrics:
+
 Increased tempo consistency.
+
 Enhanced Signal-to-Noise Ratio (SNR) for clearer audio.
+
 Dependencies
+
 Python (>= 3.8)
+
 TensorFlow / PyTorch (for model implementation)
+
 music21 (for MIDI processing)
+
 FluidSynth (for audio synthesis)
+
 Google’s Music Transformer (for refinement)
 
-Contributions
+Contributions: 
 We welcome contributions from the community. Please feel free to open issues or submit pull requests.
 
 Authors
