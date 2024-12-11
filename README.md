@@ -10,6 +10,7 @@ Music Refinement with Transformer: Refines synthesized music for enhanced fideli
 Dataset Preprocessing: Efficient MIDI data processing to extract note and chord sequences.
 Audio Synthesis: Converts MIDI files to .wav format for playback using FluidSynth.
 Modular Architecture: Designed for scalability and ease of integration.
+
 Dataset
 Source: Classical MIDI dataset featuring piano compositions from renowned composers like Chopin, Schubert, and Beethoven.
 Characteristics:
