@@ -47,3 +47,14 @@ TensorFlow / PyTorch (for model implementation)
 music21 (for MIDI processing)
 FluidSynth (for audio synthesis)
 Google’s Music Transformer (for refinement)
+
+Contributions
+We welcome contributions from the community. Please feel free to open issues or submit pull requests.
+
+Authors
+
+Pratik Gunjal
+
+Prajwal Birwadkar
+
+Vedant Barguje
