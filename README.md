@@ -64,6 +64,21 @@ Here is a corpus_notes file : https://drive.google.com/file/d/1fXL3DuiytKMm97wuY
 Here is BI-LSTM Pretrain model : https://drive.google.com/file/d/1smfMmE_TxZ0bWu12QzxuHGApnbq2_iur/view?usp=drive_link
 
 
+Preprocess the data: python preprocess.py --input_path data/ --output_path processed_data/
+
+Train the LSTM model: python train_lstm.py --data_path processed_data/ --model_path models/lstm_model.pth
+
+Generate music: python generate_music.py --model_path models/lstm_model.pth --output_path output/
+
+Synthesize audio: python synthesize_audio.py --midi_path output/generated_midi/ --output_path output/audio/
+
+Refine music with Transformer: python refine_transformer.py --audio_path output/audio/ --output_path output/refined_audio/
+
+
+
+
+
+
 
 Contributions: 
 We welcome contributions from the community. Please feel free to open issues or submit pull requests.
