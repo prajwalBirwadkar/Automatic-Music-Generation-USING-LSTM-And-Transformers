@@ -59,6 +59,8 @@ FluidSynth (for audio synthesis)
 
 Google’s Music Transformer (for refinement)
 
+Hear is a corpus_notes file : https://drive.google.com/file/d/1fXL3DuiytKMm97wuYn_cmewrQxWpmoxi/view?usp=sharing
+
 hear is BI-LSTM Pretrain model : https://drive.google.com/file/d/1smfMmE_TxZ0bWu12QzxuHGApnbq2_iur/view?usp=drive_link
 
 Contributions: 
