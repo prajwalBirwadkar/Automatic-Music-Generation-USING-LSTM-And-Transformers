@@ -94,9 +94,9 @@ Copy code
 python refine_transformer.py --audio_path output/audio/ --output_path output/refined_audio/  
 Resources
 
-Corpus Notes File
+Corpus Notes File : https://drive.google.com/file/d/1fXL3DuiytKMm97wuYn_cmewrQxWpmoxi/view?usp=sharing
 
-BI-LSTM Pretrained Model
+BI-LSTM Pretrained Model: https://drive.google.com/file/d/1smfMmE_TxZ0bWu12QzxuHGApnbq2_iur/view?usp=drive_link
 
 Contributions
 
