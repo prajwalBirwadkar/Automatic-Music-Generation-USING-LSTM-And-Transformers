@@ -1,3 +1,5 @@
+Automatic Music Generation Framework
+
 This repository presents a framework for Automatic Music Generation using Long Short-Term Memory (LSTM) and Transformer models. This project demonstrates how deep learning can create complex musical compositions by leveraging temporal dependencies in LSTMs and global contextual understanding in Transformers.
 
 Overview
@@ -53,6 +55,7 @@ Metrics:
 Increased tempo consistency.
 Enhanced Signal-to-Noise Ratio (SNR) for clearer audio.
 Dependencies
+
 Ensure you have the following installed:
 
 Python (>= 3.8)
@@ -92,12 +95,15 @@ python refine_transformer.py --audio_path output/audio/ --output_path output/ref
 Resources
 
 Corpus Notes File
+
 BI-LSTM Pretrained Model
+
 Contributions
 
 We welcome contributions from the community! Feel free to open issues or submit pull requests to improve this framework.
 
 Authors
+
 Pratik Gunjal
 Prajwal Birwadkar
 Vedant Barguje
