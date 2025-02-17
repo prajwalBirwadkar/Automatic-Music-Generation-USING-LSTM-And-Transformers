@@ -1,4 +1,4 @@
-Automatic Music Generation Framework
+Automatic Music Generation Framework.
 
 This repository presents a framework for Automatic Music Generation using Long Short-Term Memory (LSTM) and Transformer models. This project demonstrates how deep learning can create complex musical compositions by leveraging temporal dependencies in LSTMs and global contextual understanding in Transformers.
 
