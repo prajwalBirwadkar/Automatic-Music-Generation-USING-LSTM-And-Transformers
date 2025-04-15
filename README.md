@@ -104,6 +104,6 @@ We welcome contributions from the community! Feel free to open issues or submit 
 
 Authors
 
-Pratik Gunjal
+
 Prajwal Birwadkar
-Vedant Barguje
+
